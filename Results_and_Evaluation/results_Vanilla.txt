@@ -1,0 +1,140 @@
+-------------------------------------Sa 13 Aug 2022 13:59:26 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4522
+CMNIST_0.01pct vanilla:   0.5992
+CMNIST_0.02pct vanilla:   0.7390
+CMNIST_0.05pct vanilla:   0.8573
+CMNIST_0.1pct vanilla:   0.9123
+CMNIST_0.2pct vanilla:   0.9471
+-------------------------------------Sa 13 Aug 2022 14:19:17 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4347
+CMNIST_0.01pct vanilla:   0.5907
+CMNIST_0.02pct vanilla:   0.7287
+CMNIST_0.05pct vanilla:   0.8467
+CMNIST_0.1pct vanilla:   0.9141
+CMNIST_0.2pct vanilla:   0.9489
+-------------------------------------Sa 13 Aug 2022 14:38:53 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4429
+CMNIST_0.01pct vanilla:   0.5955
+CMNIST_0.02pct vanilla:   0.7331
+CMNIST_0.05pct vanilla:   0.8524
+CMNIST_0.1pct vanilla:   0.9092
+CMNIST_0.2pct vanilla:   0.9542
+-------------------------------------Sa 13 Aug 2022 14:58:36 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4251
+CMNIST_0.01pct vanilla:   0.5894
+CMNIST_0.02pct vanilla:   0.7334
+CMNIST_0.05pct vanilla:   0.8492
+CMNIST_0.1pct vanilla:   0.9131
+CMNIST_0.2pct vanilla:   0.9481
+-------------------------------------Sa 13 Aug 2022 15:18:28 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4296
+CMNIST_0.01pct vanilla:   0.5880
+CMNIST_0.02pct vanilla:   0.7287
+CMNIST_0.05pct vanilla:   0.8520
+CMNIST_0.1pct vanilla:   0.9097
+CMNIST_0.2pct vanilla:   0.9480
+-------------------------------------Sa 13 Aug 2022 15:38:22 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4440
+CMNIST_0.01pct vanilla:   0.6002
+CMNIST_0.02pct vanilla:   0.7377
+CMNIST_0.05pct vanilla:   0.8618
+CMNIST_0.1pct vanilla:   0.9125
+CMNIST_0.2pct vanilla:   0.9514
+-------------------------------------Sa 13 Aug 2022 15:58:20 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4326
+CMNIST_0.01pct vanilla:   0.5951
+CMNIST_0.02pct vanilla:   0.7380
+CMNIST_0.05pct vanilla:   0.8608
+CMNIST_0.1pct vanilla:   0.9170
+CMNIST_0.2pct vanilla:   0.9512
+-------------------------------------Sa 13 Aug 2022 16:18:16 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4298
+CMNIST_0.01pct vanilla:   0.5936
+CMNIST_0.02pct vanilla:   0.7222
+CMNIST_0.05pct vanilla:   0.8564
+CMNIST_0.1pct vanilla:   0.9140
+CMNIST_0.2pct vanilla:   0.9487
+-------------------------------------Sa 13 Aug 2022 16:38:00 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4423
+CMNIST_0.01pct vanilla:   0.5953
+CMNIST_0.02pct vanilla:   0.7292
+CMNIST_0.05pct vanilla:   0.8586
+CMNIST_0.1pct vanilla:   0.9137
+CMNIST_0.2pct vanilla:   0.9477
+-------------------------------------Sa 13 Aug 2022 16:58:23 CEST-------------------------------------
+CMNIST_0.005pct vanilla:   0.4371
+CMNIST_0.01pct vanilla:   0.5936
+CMNIST_0.02pct vanilla:   0.7384
+CMNIST_0.05pct vanilla:   0.8527
+CMNIST_0.1pct vanilla:   0.9087
+CMNIST_0.2pct vanilla:   0.9464
+-------------------------------------Sa 13 Aug 2022 23:05:46 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2159
+Vanilla_Cifar10C_0.01pct vanilla:   0.2919
+Vanilla_Cifar10C_0.02pct vanilla:   0.3505
+Vanilla_Cifar10C_0.05pct vanilla:   0.4815
+Vanilla_Cifar10C_0.1pct vanilla:   0.5812
+Vanilla_Cifar10C_0.2pct vanilla:   0.6696
+-------------------------------------So 14 Aug 2022 03:56:13 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2385
+Vanilla_Cifar10C_0.01pct vanilla:   0.2745
+Vanilla_Cifar10C_0.02pct vanilla:   0.3466
+Vanilla_Cifar10C_0.05pct vanilla:   0.4570
+Vanilla_Cifar10C_0.1pct vanilla:   0.5659
+Vanilla_Cifar10C_0.2pct vanilla:   0.6737
+-------------------------------------So 14 Aug 2022 08:46:11 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2373
+Vanilla_Cifar10C_0.01pct vanilla:   0.2852
+Vanilla_Cifar10C_0.02pct vanilla:   0.3626
+Vanilla_Cifar10C_0.05pct vanilla:   0.4613
+Vanilla_Cifar10C_0.1pct vanilla:   0.5721
+Vanilla_Cifar10C_0.2pct vanilla:   0.6783
+-------------------------------------So 14 Aug 2022 13:38:46 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2253
+Vanilla_Cifar10C_0.01pct vanilla:   0.2926
+Vanilla_Cifar10C_0.02pct vanilla:   0.3604
+Vanilla_Cifar10C_0.05pct vanilla:   0.4754
+Vanilla_Cifar10C_0.1pct vanilla:   0.5798
+Vanilla_Cifar10C_0.2pct vanilla:   0.6700
+-------------------------------------So 14 Aug 2022 18:29:18 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2260
+Vanilla_Cifar10C_0.01pct vanilla:   0.2819
+Vanilla_Cifar10C_0.02pct vanilla:   0.3525
+Vanilla_Cifar10C_0.05pct vanilla:   0.4790
+Vanilla_Cifar10C_0.1pct vanilla:   0.5639
+Vanilla_Cifar10C_0.2pct vanilla:   0.6815
+-------------------------------------So 14 Aug 2022 23:19:54 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2295
+Vanilla_Cifar10C_0.01pct vanilla:   0.2753
+Vanilla_Cifar10C_0.02pct vanilla:   0.3481
+Vanilla_Cifar10C_0.05pct vanilla:   0.4622
+Vanilla_Cifar10C_0.1pct vanilla:   0.5652
+Vanilla_Cifar10C_0.2pct vanilla:   0.6760
+-------------------------------------Mo 15 Aug 2022 04:10:32 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2128
+Vanilla_Cifar10C_0.01pct vanilla:   0.2832
+Vanilla_Cifar10C_0.02pct vanilla:   0.3451
+Vanilla_Cifar10C_0.05pct vanilla:   0.4677
+Vanilla_Cifar10C_0.1pct vanilla:   0.5783
+Vanilla_Cifar10C_0.2pct vanilla:   0.6727
+-------------------------------------Mo 15 Aug 2022 09:00:45 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2182
+Vanilla_Cifar10C_0.01pct vanilla:   0.2836
+Vanilla_Cifar10C_0.02pct vanilla:   0.3476
+Vanilla_Cifar10C_0.05pct vanilla:   0.4668
+Vanilla_Cifar10C_0.1pct vanilla:   0.5617
+Vanilla_Cifar10C_0.2pct vanilla:   0.6791
+-------------------------------------Mo 15 Aug 2022 13:53:29 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2114
+Vanilla_Cifar10C_0.01pct vanilla:   0.2699
+Vanilla_Cifar10C_0.02pct vanilla:   0.3372
+Vanilla_Cifar10C_0.05pct vanilla:   0.4696
+Vanilla_Cifar10C_0.1pct vanilla:   0.5648
+Vanilla_Cifar10C_0.2pct vanilla:   0.6793
+-------------------------------------Mo 15 Aug 2022 18:44:10 CEST-------------------------------------
+Vanilla_Cifar10C_0.005pct vanilla:   0.2110
+Vanilla_Cifar10C_0.01pct vanilla:   0.2836
+Vanilla_Cifar10C_0.02pct vanilla:   0.3393
+Vanilla_Cifar10C_0.05pct vanilla:   0.4685
+Vanilla_Cifar10C_0.1pct vanilla:   0.5778
+Vanilla_Cifar10C_0.2pct vanilla:   0.6769

@@ -1,0 +1,140 @@
+-------------------------------------Mon Aug  8 09:46:05 CEST 2022-------------------------------------
+CIFAR10C_0.1pct signal:   0.6221
+CIFAR10C_0.2pct signal:   0.6688
+CIFAR10C_0.05pct signal:   0.5594
+CIFAR10C_0.01pct signal:   0.3296
+CIFAR10C_0.005pct signal:   0.2446
+CIFAR10C_0.02pct signal:   0.4375
+-------------------------------------Mon Aug  8 12:32:54 CEST 2022-------------------------------------
+CIFAR10C_0.1pct signal:   0.6136
+CIFAR10C_0.05pct signal:   0.5658
+CIFAR10C_0.2pct signal:   0.6672
+CIFAR10C_0.005pct signal:   0.3088
+CIFAR10C_0.01pct signal:   0.3608
+CIFAR10C_0.02pct signal:   0.4596
+-------------------------------------Mon Aug  8 15:22:46 CEST 2022-------------------------------------
+CIFAR10C_0.2pct signal:   0.6774
+CIFAR10C_0.01pct signal:   0.3444
+CIFAR10C_0.05pct signal:   0.5611
+CIFAR10C_0.1pct signal:   0.6382
+CIFAR10C_0.02pct signal:   0.4661
+CIFAR10C_0.005pct signal:   0.2736
+-------------------------------------Mon Aug  8 18:06:34 CEST 2022-------------------------------------
+CIFAR10C_0.01pct signal:   0.3398
+CIFAR10C_0.1pct signal:   0.6249
+CIFAR10C_0.005pct signal:   0.2722
+CIFAR10C_0.2pct signal:   0.6744
+CIFAR10C_0.02pct signal:   0.4304
+CIFAR10C_0.05pct signal:   0.5617
+-------------------------------------Mon Aug  8 21:14:24 CEST 2022-------------------------------------
+CIFAR10C_0.2pct signal:   0.6803
+CIFAR10C_0.05pct signal:   0.5594
+CIFAR10C_0.01pct signal:   0.3684
+CIFAR10C_0.005pct signal:   0.3008
+CIFAR10C_0.02pct signal:   0.4498
+CIFAR10C_0.1pct signal:   0.6167
+-------------------------------------Mon Aug  8 23:50:54 CEST 2022-------------------------------------
+CIFAR10C_0.2pct signal:   0.6671
+CIFAR10C_0.1pct signal:   0.5611
+CIFAR10C_0.005pct signal:   0.2776
+CIFAR10C_0.05pct signal:   0.5169
+CIFAR10C_0.01pct signal:   0.3533
+CIFAR10C_0.02pct signal:   0.4162
+-------------------------------------Tue Aug  9 03:05:29 CEST 2022-------------------------------------
+CIFAR10C_0.02pct signal:   0.4288
+CIFAR10C_0.005pct signal:   0.2703
+CIFAR10C_0.05pct signal:   0.5719
+CIFAR10C_0.1pct signal:   0.6146
+CIFAR10C_0.01pct signal:   0.3452
+CIFAR10C_0.2pct signal:   0.6713
+-------------------------------------Tue Aug  9 05:42:20 CEST 2022-------------------------------------
+CIFAR10C_0.2pct signal:   0.6671
+CIFAR10C_0.02pct signal:   0.4419
+CIFAR10C_0.005pct signal:   0.2773
+CIFAR10C_0.05pct signal:   0.5472
+CIFAR10C_0.01pct signal:   0.3553
+CIFAR10C_0.1pct signal:   0.6031
+-------------------------------------Tue Aug  9 07:30:58 CEST 2022-------------------------------------
+CIFAR10C_0.2pct signal:   0.6318
+CIFAR10C_0.02pct signal:   0.4103
+CIFAR10C_0.1pct signal:   0.6074
+CIFAR10C_0.005pct signal:   0.2544
+CIFAR10C_0.05pct signal:   0.5536
+CIFAR10C_0.01pct signal:   0.3557
+-------------------------------------Tue Aug  9 09:39:51 CEST 2022-------------------------------------
+CIFAR10C_0.005pct signal:   0.2507
+CIFAR10C_0.2pct signal:   0.6694
+CIFAR10C_0.01pct signal:   0.3645
+CIFAR10C_0.05pct signal:   0.5656
+CIFAR10C_0.1pct signal:   0.6245
+CIFAR10C_0.02pct signal:   0.4255
+-------------------------------------Fri Aug 12 08:50:18 CEST 2022-------------------------------------
+CMNIST_0.1pct signal:   0.8529
+CMNIST_0.005pct signal:   0.7068
+CMNIST_0.02pct signal:   0.8225
+CMNIST_0.05pct signal:   0.8461
+CMNIST_0.2pct signal:   0.8386
+CMNIST_0.01pct signal:   0.7669
+-------------------------------------Fri Aug 12 09:07:07 CEST 2022-------------------------------------
+CMNIST_0.2pct signal:   0.8555
+CMNIST_0.02pct signal:   0.8562
+CMNIST_0.05pct signal:   0.8886
+CMNIST_0.005pct signal:   0.6855
+CMNIST_0.1pct signal:   0.8576
+CMNIST_0.01pct signal:   0.8109
+-------------------------------------Fri Aug 12 09:19:10 CEST 2022-------------------------------------
+CMNIST_0.05pct signal:   0.8606
+CMNIST_0.1pct signal:   0.8405
+CMNIST_0.02pct signal:   0.8161
+CMNIST_0.01pct signal:   0.7838
+CMNIST_0.005pct signal:   0.7009
+CMNIST_0.2pct signal:   0.8269
+-------------------------------------Fri Aug 12 09:32:51 CEST 2022-------------------------------------
+CMNIST_0.2pct signal:   0.8305
+CMNIST_0.05pct signal:   0.8531
+CMNIST_0.02pct signal:   0.8429
+CMNIST_0.005pct signal:   0.6792
+CMNIST_0.01pct signal:   0.8026
+CMNIST_0.1pct signal:   0.8650
+-------------------------------------Fri Aug 12 09:46:20 CEST 2022-------------------------------------
+CMNIST_0.1pct signal:   0.8584
+CMNIST_0.01pct signal:   0.8050
+CMNIST_0.05pct signal:   0.8608
+CMNIST_0.2pct signal:   0.8650
+CMNIST_0.02pct signal:   0.8264
+CMNIST_0.005pct signal:   0.7113
+-------------------------------------Fri Aug 12 09:59:43 CEST 2022-------------------------------------
+CMNIST_0.1pct signal:   0.8377
+CMNIST_0.01pct signal:   0.8173
+CMNIST_0.02pct signal:   0.8386
+CMNIST_0.05pct signal:   0.8600
+CMNIST_0.005pct signal:   0.7295
+CMNIST_0.2pct signal:   0.8652
+-------------------------------------Fri Aug 12 10:14:02 CEST 2022-------------------------------------
+CMNIST_0.05pct signal:   0.8666
+CMNIST_0.1pct signal:   0.8680
+CMNIST_0.005pct signal:   0.7350
+CMNIST_0.01pct signal:   0.7954
+CMNIST_0.02pct signal:   0.8418
+CMNIST_0.2pct signal:   0.8671
+-------------------------------------Fri Aug 12 10:29:03 CEST 2022-------------------------------------
+CMNIST_0.2pct signal:   0.8647
+CMNIST_0.01pct signal:   0.8412
+CMNIST_0.005pct signal:   0.7619
+CMNIST_0.05pct signal:   0.8734
+CMNIST_0.1pct signal:   0.8706
+CMNIST_0.02pct signal:   0.8514
+-------------------------------------Fri Aug 12 10:43:09 CEST 2022-------------------------------------
+CMNIST_0.2pct signal:   0.8436
+CMNIST_0.05pct signal:   0.8796
+CMNIST_0.01pct signal:   0.7866
+CMNIST_0.1pct signal:   0.8406
+CMNIST_0.005pct signal:   0.7193
+CMNIST_0.02pct signal:   0.8383
+-------------------------------------Fri Aug 12 10:58:06 CEST 2022-------------------------------------
+CMNIST_0.05pct signal:   0.8251
+CMNIST_0.01pct signal:   0.7934
+CMNIST_0.02pct signal:   0.8457
+CMNIST_0.2pct signal:   0.8666
+CMNIST_0.1pct signal:   0.8436
+CMNIST_0.005pct signal:   0.7331

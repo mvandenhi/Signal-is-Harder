@@ -1,0 +1,150 @@
+-------------------------------------Fr 05 Aug 2022 23:56:32 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.2875
+cifar10c_1_ours signal:   0.2982
+cifar10c_2_ours signal:   0.3566
+cifar10c_5_ours signal:   0.4009
+-------------------------------------Sa 06 Aug 2022 03:00:31 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.3364
+cifar10c_1_ours signal:   0.3272
+cifar10c_2_ours signal:   0.3566
+cifar10c_5_ours signal:   0.4543
+-------------------------------------Sa 06 Aug 2022 06:08:04 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.3655
+cifar10c_1_ours signal:   0.3177
+cifar10c_2_ours signal:   0.3717
+cifar10c_5_ours signal:   0.5336
+-------------------------------------Sa 06 Aug 2022 09:20:11 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.2809
+cifar10c_1_ours signal:   0.3658
+cifar10c_2_ours signal:   0.4573
+cifar10c_5_ours signal:   0.4520
+-------------------------------------Sa 06 Aug 2022 12:34:52 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.3344
+cifar10c_1_ours signal:   0.2993
+cifar10c_2_ours signal:   0.4308
+cifar10c_5_ours signal:   0.4013
+-------------------------------------Sa 06 Aug 2022 15:51:13 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.3442
+cifar10c_1_ours signal:   0.3010
+cifar10c_2_ours signal:   0.3570
+cifar10c_5_ours signal:   0.4319
+-------------------------------------Sa 06 Aug 2022 19:08:58 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.3057
+cifar10c_1_ours signal:   0.2717
+cifar10c_2_ours signal:   0.3479
+cifar10c_5_ours signal:   0.4784
+-------------------------------------Sa 06 Aug 2022 22:34:41 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.3547
+cifar10c_1_ours signal:   0.3426
+cifar10c_2_ours signal:   0.3155
+cifar10c_5_ours signal:   0.5465
+-------------------------------------So 07 Aug 2022 01:56:14 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.2661
+cifar10c_1_ours signal:   0.2979
+cifar10c_2_ours signal:   0.3821
+cifar10c_5_ours signal:   0.5383
+-------------------------------------So 07 Aug 2022 05:18:52 CEST-------------------------------------
+cifar10c_0.5_ours signal:   0.3213
+cifar10c_1_ours signal:   0.3001
+cifar10c_2_ours signal:   0.3229
+cifar10c_5_ours signal:   0.4025
+-------------------------------------Mo 08 Aug 2022 09:59:38 CEST-------------------------------------
+cifar10c_10_ours signal:   0.4867
+cifar10c_20_ours signal:   0.5392
+-------------------------------------Mo 08 Aug 2022 11:38:48 CEST-------------------------------------
+cifar10c_10_ours signal:   0.5326
+cifar10c_20_ours signal:   0.6504
+-------------------------------------Mo 08 Aug 2022 13:19:30 CEST-------------------------------------
+cifar10c_10_ours signal:   0.5752
+cifar10c_20_ours signal:   0.5464
+-------------------------------------Mo 08 Aug 2022 15:00:54 CEST-------------------------------------
+cifar10c_10_ours signal:   0.5778
+cifar10c_20_ours signal:   0.6835
+-------------------------------------Mo 08 Aug 2022 16:42:41 CEST-------------------------------------
+cifar10c_10_ours signal:   0.5631
+cifar10c_20_ours signal:   0.5427
+-------------------------------------Mo 08 Aug 2022 18:25:51 CEST-------------------------------------
+cifar10c_10_ours signal:   0.4369
+cifar10c_20_ours signal:   0.6349
+-------------------------------------Mo 08 Aug 2022 20:10:26 CEST-------------------------------------
+cifar10c_10_ours signal:   0.5137
+cifar10c_20_ours signal:   0.5571
+-------------------------------------Mo 08 Aug 2022 21:57:28 CEST-------------------------------------
+cifar10c_10_ours signal:   0.5553
+cifar10c_20_ours signal:   0.6759
+-------------------------------------Mo 08 Aug 2022 23:46:40 CEST-------------------------------------
+cifar10c_10_ours signal:   0.5511
+cifar10c_20_ours signal:   0.6103
+-------------------------------------Di 09 Aug 2022 01:33:31 CEST-------------------------------------
+cifar10c_10_ours signal:   0.5542
+cifar10c_20_ours signal:   0.6581
+-------------------------------------Fr 12 Aug 2022 18:12:38 CEST-------------------------------------
+cmnist_20_ours signal:   0.9270
+cmnist_10_ours signal:   0.8974
+cmnist_0.5_ours signal:   0.6376
+cmnist_1_ours signal:   0.7753
+cmnist_2_ours signal:   0.8448
+cmnist_5_ours signal:   0.8647
+-------------------------------------Fr 12 Aug 2022 19:35:13 CEST-------------------------------------
+cmnist_20_ours signal:   0.9095
+cmnist_10_ours signal:   0.9029
+cmnist_0.5_ours signal:   0.6780
+cmnist_1_ours signal:   0.7381
+cmnist_2_ours signal:   0.8281
+cmnist_5_ours signal:   0.8909
+-------------------------------------Fr 12 Aug 2022 21:03:07 CEST-------------------------------------
+cmnist_20_ours signal:   0.9131
+cmnist_10_ours signal:   0.9053
+cmnist_0.5_ours signal:   0.6411
+cmnist_1_ours signal:   0.7908
+cmnist_2_ours signal:   0.8370
+cmnist_5_ours signal:   0.8664
+-------------------------------------Fr 12 Aug 2022 22:34:05 CEST-------------------------------------
+cmnist_20_ours signal:   0.9192
+cmnist_10_ours signal:   0.8961
+cmnist_0.5_ours signal:   0.6533
+cmnist_1_ours signal:   0.8020
+cmnist_2_ours signal:   0.8045
+cmnist_5_ours signal:   0.8272
+-------------------------------------Sa 13 Aug 2022 00:08:05 CEST-------------------------------------
+cmnist_20_ours signal:   0.9065
+cmnist_10_ours signal:   0.8703
+cmnist_0.5_ours signal:   0.6054
+cmnist_1_ours signal:   0.7846
+cmnist_2_ours signal:   0.8098
+cmnist_5_ours signal:   0.8454
+-------------------------------------Sa 13 Aug 2022 01:43:59 CEST-------------------------------------
+cmnist_20_ours signal:   0.8721
+cmnist_10_ours signal:   0.8868
+cmnist_0.5_ours signal:   0.6190
+cmnist_1_ours signal:   0.7317
+cmnist_2_ours signal:   0.8232
+cmnist_5_ours signal:   0.8136
+-------------------------------------Sa 13 Aug 2022 03:20:17 CEST-------------------------------------
+cmnist_20_ours signal:   0.9173
+cmnist_10_ours signal:   0.9058
+cmnist_0.5_ours signal:   0.6766
+cmnist_1_ours signal:   0.7733
+cmnist_2_ours signal:   0.8458
+cmnist_5_ours signal:   0.8917
+-------------------------------------Sa 13 Aug 2022 04:56:48 CEST-------------------------------------
+cmnist_20_ours signal:   0.9140
+cmnist_10_ours signal:   0.8631
+cmnist_0.5_ours signal:   0.6984
+cmnist_1_ours signal:   0.8020
+cmnist_2_ours signal:   0.8355
+cmnist_5_ours signal:   0.8584
+-------------------------------------Sa 13 Aug 2022 06:33:30 CEST-------------------------------------
+cmnist_20_ours signal:   0.9054
+cmnist_10_ours signal:   0.8912
+cmnist_0.5_ours signal:   0.6594
+cmnist_1_ours signal:   0.7085
+cmnist_2_ours signal:   0.8047
+cmnist_5_ours signal:   0.8513
+-------------------------------------Sa 13 Aug 2022 08:08:01 CEST-------------------------------------
+cmnist_20_ours signal:   0.9096
+cmnist_10_ours signal:   0.8927
+cmnist_0.5_ours signal:   0.5296
+cmnist_1_ours signal:   0.7264
+cmnist_2_ours signal:   0.8054
+cmnist_5_ours signal:   0.8446

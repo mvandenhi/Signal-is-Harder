@@ -1,0 +1,150 @@
+-------------------------------------Do 04 Aug 2022 15:52:25 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5568
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.4606
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.3795
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.3070
+-------------------------------------Do 04 Aug 2022 18:38:25 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5885
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.4609
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.3891
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.2804
+-------------------------------------Do 04 Aug 2022 21:29:21 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5781
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.4579
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.4097
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.3180
+-------------------------------------Fr 05 Aug 2022 00:22:10 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5459
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.4782
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.3779
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.2933
+-------------------------------------Fr 05 Aug 2022 03:13:37 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5155
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.4651
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.3785
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.3032
+-------------------------------------Fr 05 Aug 2022 06:05:47 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5391
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.4830
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.3899
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.2892
+-------------------------------------Fr 05 Aug 2022 08:58:00 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5577
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.4633
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.3851
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.3010
+-------------------------------------Fr 05 Aug 2022 11:54:33 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5493
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.4640
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.3982
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.2735
+-------------------------------------Fr 05 Aug 2022 14:51:28 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5922
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.5069
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.4484
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.3103
+-------------------------------------Fr 05 Aug 2022 17:49:43 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.05-Severity4 signal:   0.5542
+CorruptedCIFAR10-Type0-Skewed0.02-Severity4 signal:   0.4857
+CorruptedCIFAR10-Type0-Skewed0.01-Severity4 signal:   0.3825
+CorruptedCIFAR10-Type0-Skewed0.005-Severity4 signal:   0.3277
+-------------------------------------Di 09 Aug 2022 08:55:08 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.5923
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6656
+-------------------------------------Di 09 Aug 2022 10:27:26 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.5902
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6755
+-------------------------------------Di 09 Aug 2022 12:02:14 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.5650
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6546
+-------------------------------------Di 09 Aug 2022 13:37:55 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.6144
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6376
+-------------------------------------Di 09 Aug 2022 15:14:21 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.5236
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6164
+-------------------------------------Di 09 Aug 2022 16:50:50 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.6085
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6392
+-------------------------------------Di 09 Aug 2022 18:27:45 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.6173
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6416
+-------------------------------------Di 09 Aug 2022 20:04:21 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.5893
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6673
+-------------------------------------Di 09 Aug 2022 21:41:59 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.6383
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6078
+-------------------------------------Di 09 Aug 2022 23:18:51 CEST-------------------------------------
+CorruptedCIFAR10-Type0-Skewed0.1-Severity4 signal:   0.5898
+CorruptedCIFAR10-Type0-Skewed0.2-Severity4 signal:   0.6440
+-------------------------------------Mi 10 Aug 2022 08:44:29 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.8135
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.7272
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.8204
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.7641
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.7167
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.5964
+-------------------------------------Mi 10 Aug 2022 09:38:33 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.8793
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.7049
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.8235
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.7460
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.6350
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.5794
+-------------------------------------Mi 10 Aug 2022 10:32:56 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.8584
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.7272
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.8264
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.7462
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.6540
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.6216
+-------------------------------------Mi 10 Aug 2022 11:27:38 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.7510
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.6273
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.7846
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.7325
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.5891
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.6265
+-------------------------------------Mi 10 Aug 2022 12:22:14 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.8833
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.7472
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.8484
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.8130
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.7551
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.6528
+-------------------------------------Mi 10 Aug 2022 13:17:04 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.8358
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.6998
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.8393
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.7911
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.7134
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.5881
+-------------------------------------Mi 10 Aug 2022 14:12:03 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.8390
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.7398
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.8123
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.7771
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.6955
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.6011
+-------------------------------------Mi 10 Aug 2022 15:07:37 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.7950
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.7321
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.8261
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.7919
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.7395
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.6238
+-------------------------------------Mi 10 Aug 2022 16:03:10 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.8092
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.6422
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.7849
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.7586
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.6908
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.5933
+-------------------------------------Mi 10 Aug 2022 16:58:54 CEST-------------------------------------
+ColoredMNIST-Skewed0.1-Severity4 signal:   0.7340
+ColoredMNIST-Skewed0.2-Severity4 signal:   0.6701
+ColoredMNIST-Skewed0.05-Severity4 signal:   0.7518
+ColoredMNIST-Skewed0.02-Severity4 signal:   0.7769
+ColoredMNIST-Skewed0.01-Severity4 signal:   0.7014
+ColoredMNIST-Skewed0.005-Severity4 signal:   0.5591

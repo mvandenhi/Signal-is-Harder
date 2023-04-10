@@ -1,0 +1,50 @@
+---
+name: "Signal is Harder"                   # Name of your experiment
+random_state: 0                            # Random Seed
+wandb_logging: False                       # If true, the experiment is logged in W&B
+results_filename: results                  # Name of file in which results are to be stored
+
+
+user:
+  data_dir: "/PATH/TO/DIRECTORY"           # We recommend something along the lines of "/home/user/projects/Signal-is-Harder/data/data"
+
+data:
+  dataset: "colored_mnist"                 # "colored_mnist" / "cifar10_type0" / "cifar10_type1" 
+  bias_conflicting_perc: 0.01              # 0.005 / 0.01 / 0.02 / 0.05 / 0.1 / 0.2
+  severity: 4                              # 4 
+  
+model:
+  tag: "MLP_VAE"                           # "MLP_VAE" / "ResNet_VAE" 
+  bottleneck_MLP: 100                      # MLP Bottleneck Channels
+  bottleneck_ResNet: 512                   # Resnet Bottleneck Channels
+
+optimizer:
+  name: "Adam"
+  lr: 0.001
+  momentum: 0.9
+  weight_decay: 0
+  betas: [0.9, 0.999]
+  lr_decay: True
+  lr_gamma: 0.1
+  lr_decay_step: 10
+
+train:
+  batch_size: 256
+  epochs: 500
+
+loss:
+  GCE_q: 0.7
+  VAE_weight: 1
+  reconst_weight: 100
+  perturbation: False
+
+early_stop:
+  patience_MLP: 2
+  patience_ResNet: 20
+
+perturb:
+  overshoot: 0.02
+
+Dfa:
+  dataset: False                           # Generate dataset in Dfa format 
+  data_dir: "/PATH/TO/Learning-Debiased-Disentangled/dataset" #Where to save Dfa when running scripts/run_*_Dfa.sh
